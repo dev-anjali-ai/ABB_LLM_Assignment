@@ -1,0 +1,9 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rag-sec"
+version = "0.1.0"
+description = "SEC 10-K RAG pipeline (Apple 2024, Tesla 2023) using FAISS + reranker + vLLM"
+requires-python = ">=3.10"

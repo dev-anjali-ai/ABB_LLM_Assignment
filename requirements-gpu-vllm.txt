@@ -1,0 +1,2 @@
+# Install this on a CUDA GPU machine (Kaggle/Colab GPU/your server)
+vllm>=0.5.0
